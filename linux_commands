@@ -1,0 +1,25 @@
+pwd - To see the present working directory
+ls - list the files
+chmod - change permission
+        u,g,o +r +w +x 
+        4 read
+        2 write
+        1 execute
+chown - 
+
+touch - to create a file
+mkdir - make directory
+rm - remove files
+    rm -r - remove recursive files
+    rm -rf force remove
+    rm -d - remove empty directory
+cp - copy
+mv - move
+systemctl start service
+systemctl status 
+systemctl enable
+          stop
+
+lscpu
+du -dh
+

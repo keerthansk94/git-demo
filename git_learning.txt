@@ -30,4 +30,6 @@ git merge branch  ----- this will merge from the given branch to the current bra
 
 git remote add origin <url>
 
-git clone <url
+git clone <url>
+
+git 

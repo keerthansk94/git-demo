@@ -1,0 +1,35 @@
+Version control system
+central VCS - Distributed VCS
+we can work offline
+every user will have a working copy called local repository
+
+git is widely used in enterprises
+
+git commands
+
+git init -- initialize git 
+git add file or . or *
+git commit -m "message"
+
+git stash --to save the file temprorly
+git stash list
+git stash pop - pop will remove the stash content
+git stash apply - will keep the stash content
+we can add stash id to pop or apply stash
+
+git branch
+git checkout <branch name>
+git branch <new branch>
+ 
+git push origin branch
+git pull
+
+git fetch -- fetch will only get the changes from remote but will not merge
+
+git merge branch  ----- this will merge from the given branch to the current branch
+
+git remote add origin <url>
+
+git clone <url>
+
+git 

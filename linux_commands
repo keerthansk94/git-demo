@@ -5,7 +5,7 @@ chmod - change permission
         4 read
         2 write
         1 execute
-chown - 
+chown - chown user1:user2
 
 touch - to create a file
 mkdir - make directory

@@ -7,4 +7,5 @@ chown
 -------------------------        GIT        ----------------------------------
 
 rebase
-fetch
+fetch 
+      to check difference bw fetch and pull

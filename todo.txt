@@ -7,7 +7,5 @@ chown
 -------------------------        GIT        ----------------------------------
 
 rebase
-fetch 
-      to check difference bw fetch and pull
-      to check is merge is working or not
+fetch
 
